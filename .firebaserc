@@ -1,0 +1,18 @@
+{
+  "targets": {
+    "notebook-705fc": {
+      "hosting": {
+        "app": [
+          "notebook-705fc"
+        ]
+      }
+    },
+    "chat-app-fd956": {
+      "hosting": {
+        "app": [
+          "chat-app-fd956"
+        ]
+      }
+    }
+  }
+}
